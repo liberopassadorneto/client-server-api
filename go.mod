@@ -1,4 +1,4 @@
-module github.com/liberopassadorneto/pos-go-expert/client-server-api
+module github.com/liberopassadorneto/client-server-api
 
 go 1.21.4
 
